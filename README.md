@@ -73,3 +73,6 @@ git config --global user.email "gustavo.marcelino@lwsa.tech"
 ## Estrutura de Pastas (em construção)# PDI Estágio Lab
 
 Repositório de estudos do meu PDI de 12 meses na LWSA.
+---
+
+**Última atualização:** 31 de Maio de 2026
