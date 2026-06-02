@@ -84,7 +84,7 @@ pdi-estagio-lab/
 ### Mês 1 — Fundação
 - [x] Configurar ambiente de desenvolvimento
 - [x] Aprender Git e versionamento
-- [ ] Entender o fluxo de trabalho da equipe (resenha)
+- [x] Entender o fluxo de trabalho da equipe (resenha)
 - [ ] Abrir primeiro pull request
 
 ### Meses 2–12 (temas)
