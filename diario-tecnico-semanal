@@ -1,0 +1,35 @@
+# Diário Técnico Semanal
+
+## Semana 1 — junho/2026
+
+### Segunda (01/06)
+- **O que fiz:
+
+- **O que aprendi:**
+- **Dúvidas / travas:**
+
+### Terça (02/06)
+- **O que fiz:**Onbording com Leonardo mostrando o ambiente e produtos que trabalhamos.
+ 2 módulos do Curso Git e Git Hub do Básico ao Avançado.
+ Treinamento - Kbernetes K8s 
+ 
+- **O que aprendi:**
+ Overviw dos produtos da locawebe e produto descontinuado 
+ Como criar arquivos e Commits com os comandos: 
+ `git status` — mostra o que foi modificado
+
+ `git add` — adiciona um arquivo específico 
+
+ `git add .` — adiciona tudo de uma vez
+
+ `git commit -m "mensagem"` — cria o commit com uma mensagem
+
+ `git push` — envia os commits pro GitHub
+
+ `git log` — histórico de commits 
+ 
+
+- **Dúvidas / travas:** 
+ O que cada produto faz
+ Na hora de decorar todos os comandos 
+
