@@ -4,36 +4,52 @@
 
 ### Segunda (01/06)
 - **O que fiz:
+Onbording com a equipe primeiros comandos com terminal linux
 
 - **O que aprendi:**
+Comandos Básicos — Linux / Terminal
+`pwd` — mostra o diretório atual
+`ls` — lista arquivos e pastas
+`ls -la` — lista tudo, incluindo arquivos ocultos e permissões
+`cd nome-da-pasta` — entra em uma pasta
+`cd ..` — volta uma pasta
+`cd ~` — vai direto para o diretório home
+`mkdir nome` — cria uma pasta
+`touch arquivo.txt` — cria um arquivo vazio
+`cp origem destino` — copia arquivo
+`mv origem destino` — move ou renomeia arquivo
+`rm arquivo` — remove arquivo
+`rm -rf pasta` — remove pasta e tudo dentro (cuidado!)
+
 - **Dúvidas / travas:**
+Como mexer nas ferramentas apresentadas e decorar todos os comandos
 
 ### Terça (02/06)
-- **O que fiz:**Onbording com Leonardo mostrando o ambiente e produtos que trabalhamos.
- 2 módulos do Curso Git e Git Hub do Básico ao Avançado.
+- **O que fiz:**
+ Onbording com Leonardo mostrando o ambiente e produtos que trabalhamos.
+ Curso Git - Commit
  Treinamento - Kbernetes K8s 
  
 - **O que aprendi:**
- Overviw dos produtos da locawebe e produto descontinuado 
+ Overviw dos produtos da locaweb e produto descontinuado 
  Como criar arquivos e Commits com os comandos: 
  `git status` — mostra o que foi modificado
-
  `git add` — adiciona um arquivo específico 
-
  `git add .` — adiciona tudo de uma vez
-
  `git commit -m "mensagem"` — cria o commit com uma mensagem
-
  `git push` — envia os commits pro GitHub
-
- `git log` — histórico de commits 
  
-
 - **Dúvidas / travas:** 
  O que cada produto faz
  Na hora de decorar todos os comandos 
 
 ### Quarta (03/06)
+- **O que fiz:
+Agendas (Definição de Gustavo com as receitas)
+Curso de Git - commit & clone
 
 - **O que aprendi:**
+`git clone <URL>` — copia o repositório remoto para sua máquina
+
 - **Dúvidas / travas:**
+Como fazer uma recita do zero (Vou ter um agenda com o Leonardo para gravar e ver como faz)
