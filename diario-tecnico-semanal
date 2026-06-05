@@ -39,6 +39,7 @@ Como mexer nas ferramentas apresentadas e decorar todos os comandos
  `git commit -m "mensagem"` — cria o commit com uma mensagem
  `git push` — envia os commits pro GitHub
  `git pull` — recebe commits do GitHub 
+
 - **Dúvidas / travas:** 
  O que cada produto faz
  Na hora de decorar todos os comandos 
