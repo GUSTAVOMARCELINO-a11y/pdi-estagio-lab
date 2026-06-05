@@ -98,3 +98,11 @@ pdi-estagio-lab/
 
 ---
 *Última atualização: 1 de junho de 2026*
+
+
+
+
+
+
+teste reset 
+
