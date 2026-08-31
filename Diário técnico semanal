@@ -1,0 +1,23 @@
+# Diário Técnico Semanal — Mês 1
+
+Este documento registra o histórico de atividades ao longo do primeiro mês de vigência do Plano de Desenvolvimento Individual (PDI) na Squad Cloud.
+
+### Semana 1: Mapeamento de Infraestrutura e Alinhamento de Ferramentas
+* **Foco:** Onboarding conceitual
+* **Atividades:** Realização de um diagnóstico geral do ecossistema corporativo, compreendendo a arquitetura e a integração entre os ambientes Locaweb, KingHost e Azure. Paralelamente, foi conduzido um estudo direcionado sobre as boas práticas e o fluxo de versionamento via Git adotados institucionalmente pela equipe.
+
+### Semana 2: Adaptação ao Ambiente e Provisionamento Inicial
+* **Foco:** Ambientação e modelagem de serviços base.
+* **Atividades:** Consolidação do entendimento do ambiente local de desenvolvimento. Início do desenvolvimento de "receitas" de infraestrutura para o empacotamento e provisionamento isolado dos serviços **Nextcloud**, **Collabora** e **Jitsi**, visando a familiarização com os padrões de entrega do time.
+
+### Semana 3: Expansão do Catálogo de Serviços
+* **Foco:** Continuidade no desenvolvimento e integração de ferramentas.
+* **Atividades:** Progressão no desenvolvimento técnico com a criação, configuração e validação de novas receitas corporativas. Os esforços foram concentrados no provisionamento das plataformas **Immich** (gerenciamento de ativos), **Portainer** (administração visual de containers) e no ecossistema do **Hermes IA**.
+
+### Semana 4: Padronização, Otimização e Homologação
+* **Foco:** Criação de matrizes e preparação para o ambiente produtivo.
+* **Atividades:** Atuação no desenvolvimento de uma receita unificada e na estruturação de um template padrão para uso replicável pela squad. Execução de revisões e ajustes finos em todas as receitas criadas nas semanas anteriores, assegurando conformidade estrita com os critérios de aceite de produção.
+
+### Status Atual e Próximas Demandas (Semana 5)
+* **Status de Entrega:** Conclusão bem-sucedida da implantação (*deploy*) de todas as receitas homologadas em ambiente de produção, em atuação conjunta com o colaborador Léo.
+* **Atividades em Andamento:** Revisão teórica de conceitos avançados de Git e início da triagem e manutenção evolutiva de um lote de aproximadamente 30 receitas legadas, que demandam adequação e refatoração para o novo padrão estabelecido pela equipe.
