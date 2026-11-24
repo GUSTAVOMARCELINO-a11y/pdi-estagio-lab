@@ -36,13 +36,14 @@ reuniões diárias e revisão de código.
 
 ## Entregáveis
 
-- [ ] Resenha sobre o funcionamento de uma sprint
-- [ ] Resenha sobre Scrum e Kanban
-- [ ] Simulação de quadro Kanban
-- [ ] Relatório de participação em cerimônias
+- [x] [Resenha sobre o funcionamento de uma Sprint](scrum-sprint.md)
+- [x] [Resenha sobre Scrum e Kanban](scrum-vs-kanban.md)
+- [x] [Simulação de quadro Kanban](kanban-board.md)
+- [x] [Relatório de cerimônias](relatorio-cerimonias.md)
 
-## Referências
+## Status
 
-- Material acadêmico da UNINOVE — AVA
-- Professor André Ronaldo Rivas
-- Plano de Desenvolvimento Individual — Mês 06
+- [x] Documentação dos conhecimentos teóricos
+- [x] Elaboração dos entregáveis
+- [ ] Validação do relatório de uma Sprint real
+- [ ] Code Review
